@@ -1,0 +1,5 @@
+{
+  "name": "UveCheck Web - Aug 2025",
+  "description": "A web application to assess Uveitis risk in children with Juvenile Idiopathic Arthritis (JIA) based on various international guidelines. This tool helps determine the appropriate screening frequency based on patient data.",
+  "requestFramePermissions": []
+}
